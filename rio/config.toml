@@ -2,3 +2,5 @@ theme = "catppuccin-frappe"
 
 [window]
 decorations = "Enabled"
+width = 1100
+height = 600
